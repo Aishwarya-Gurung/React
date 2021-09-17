@@ -1,0 +1,16 @@
+.info {
+    text-align: left;
+  }
+  
+  .label__info {
+    display: flex;
+  }
+  
+  .title__info {
+    margin-left: 16px;
+  }
+  
+  .value__info {
+    margin-top: 2px;
+  }
+  

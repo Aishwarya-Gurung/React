@@ -1,0 +1,13 @@
+.count__status {
+  padding-bottom: 5px;
+  color: #2d2c2c;
+  font-size: 32px;
+}
+  
+.label__status {
+  font-size: 13px;
+  background-color: #eaeaea;
+  height: 1em;
+  padding: 8px;
+}
+  
